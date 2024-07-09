@@ -1,0 +1,16 @@
+[2024-07-08 16:19:14,813] werkzeug - WARNING -  * Debugger is active!
+[2024-07-08 16:19:14,827] werkzeug - INFO -  * Debugger PIN: 894-197-220
+[2024-07-08 16:20:07,082] root - INFO - testing
+[2024-07-08 16:20:07,085] werkzeug - INFO - 127.0.0.1 - - [08/Jul/2024 16:20:07] "GET / HTTP/1.1" 200 -
+[2024-07-08 16:20:07,148] werkzeug - INFO - 127.0.0.1 - - [[2024-07-08 16:24:42,167] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:24:47,087] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:24:49,329] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:24:51,722] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:24:56,367] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:25:02,570] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:25:04,539] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:25:06,918] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:25:11,754] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:25:13,962] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:25:16,061] werkzeug - INFO -  * Restarting with stat
+[2024-07-08 16:32:03,431] werkzeug - INFO -  * Restarting with stat
